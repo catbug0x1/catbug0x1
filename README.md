@@ -1,7 +1,7 @@
-![Showcase](https://github.com/user-attachments/assets/8ca73f59-16e4-4598-b449-29f97aff87a6)
-
-
 <table>
+  <tr>
+    <td colspan="2"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h6OGlwMHcxeDd0OXh1a2w5NnZnbHlvMGZ4ZW5wcmI5ZWc1bzFsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2dPIURjYbpTcM9tfsD/giphy.gif" alt="TopDarkWebGIF" width="600"></td>
+  </tr>
   <tr>
     <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR5M2hsenBwNGdvdWtvN2Y1ZWR1dnk0bDN3bnlqdWJ5dnBlczV0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGF4DVYSeS5oIx2/giphy.gif" alt="DarkWebGIF" width="200"></td>
     <td>
