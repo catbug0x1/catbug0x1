@@ -1,4 +1,4 @@
-![Showcase](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNsend6cDc2eDAyYzlzZ3BkbW9vOGs3bDQxZ2Z1Zm5veWExeWV0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CazZTIybzyUoww/giphy.gif)
+![Showcase](https://github.com/user-attachments/assets/8ca73f59-16e4-4598-b449-29f97aff87a6)
 
 <table>
   <tr>
