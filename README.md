@@ -1,3 +1,6 @@
+![Showcase](https://github.com/user-attachments/assets/8ca73f59-16e4-4598-b449-29f97aff87a6)
+
+
 <table>
   <tr>
     <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR5M2hsenBwNGdvdWtvN2Y1ZWR1dnk0bDN3bnlqdWJ5dnBlczV0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGF4DVYSeS5oIx2/giphy.gif" alt="DarkWebGIF" width="200"></td>
