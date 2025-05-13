@@ -1,4 +1,10 @@
-👋 Hello, I’m @catbug0x1
+
+![Uploading 99057153-58eba780-25d6-11eb-8033-88c5bd0bd7fe.gif…]()
+
+
+
+👋 Hello, I’m @catbug0x1  ![Uploading 439496397-db0e132c-c639-4d68-8e5a-21cf84dd63c1.gif…]()
+
 
 🔍 Focus Areas: Passionate about AI, with a strong focus on penetration testing and red teaming.
 
