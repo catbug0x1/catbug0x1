@@ -1,4 +1,4 @@
-![Showcase](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h6OGlwMHcxeDd0OXh1a2w5NnZnbHlvMGZ4ZW5wcmI5ZWc1bzFsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2dPIURjYbpTcM9tfsD/giphy.gif)
+![Showcase](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNsend6cDc2eDAyYzlzZ3BkbW9vOGs3bDQxZ2Z1Zm5veWExeWV0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CazZTIybzyUoww/giphy.gif)
 
 <table>
   <tr>
