@@ -2,7 +2,7 @@
 ![Showcase](https://github.com/user-attachments/assets/8ca73f59-16e4-4598-b449-29f97aff87a6)
 
 
-👋 Hello, I’m @catbug0x1 ![New Animation](https://raw.githubusercontent.com/your-username/your-repo/main/assets/muslim-nasheed.gif)
+👋 Hello, I’m @catbug0x1 ![Showcase](https://raw.githubusercontent.com/your-username/your-repo/main/assets/muslim-nasheed.gif)
 
 
 
